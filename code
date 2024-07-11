@@ -1,5 +1,4 @@
-# Auto detect text files and perform LF normalization
-* import ipaddress
+import ipaddress
 
 def get_ip_range(cidr):
     network = ipaddress.ip_network(cidr)
@@ -9,4 +8,3 @@ def get_ip_range(cidr):
 cidr = "192.168.1.0/24"
 ip_range = get_ip_range(cidr)
 print(ip_range)
-* 

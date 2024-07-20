@@ -1,4 +1,4 @@
-# IP Address Range Tool
+# IP address finder tool
 
 # How to install
 

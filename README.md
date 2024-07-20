@@ -1,3 +1,8 @@
 # IP Address Range Tool
-Example
-python3 get_ip_range.py 192.168.1.0/24
+How to install 
+git clone https://github.com/anjan123427/Ip-address-finder/tree/main
+cd Ip-address-finder
+chmod +x Ip-address-finder
+How to use 
+python3 get_ip_range.py cidr range
+

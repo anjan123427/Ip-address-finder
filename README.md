@@ -1,6 +1,6 @@
 # IP Address Range Tool
 How to install 
-git clone https://github.com/anjan123427/Ip-address-finder/tree/main
+git clone https://github.com/anjan123427/Ip-address-finder.git
 cd Ip-address-finder
 chmod +x Ip-address-finder
 How to use 
